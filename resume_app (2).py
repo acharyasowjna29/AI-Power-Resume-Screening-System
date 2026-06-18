@@ -19,7 +19,7 @@ llm = ChatOpenAI(
     base_url="https://api.groq.com/openai/v1"
 )
 
-!pip install --upgrade langchain langchain_community
+
 
 from langchain_core.prompts import PromptTemplate
 from langchain_core.runnables import RunnablePassthrough
