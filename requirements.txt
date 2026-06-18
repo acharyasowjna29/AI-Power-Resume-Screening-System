@@ -1,13 +1,11 @@
 
 streamlit
-pandas
-numpy
+langchain
+langchain-community
+langchain-openai
+langchain-core
+faiss-cpu
 pypdf
 sentence-transformers
 scikit-learn
-groq
-langchain
-langchain-community
-langchain-text-splitters
-faiss-cpu
-python-dotenv
+pandas
