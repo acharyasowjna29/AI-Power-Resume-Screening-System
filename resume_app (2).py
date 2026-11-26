@@ -68,16 +68,16 @@ Provide:
 
 Rules:
 
-ATS Score >= 80:
+ATS Score >= 70:
 STRONGLY RECOMMENDED
 
-ATS Score 60-79:
+ATS Score 50-69:
 RECOMMENDED
 
-ATS Score 40-59:
+ATS Score 30-49:
 CONSIDER
 
-ATS Score < 40:
+ATS Score < 10:
 REJECTED
 
 Give professional output.
