@@ -71,10 +71,10 @@ Rules:
 ATS Score >= 70:
 STRONGLY RECOMMENDED
 
-ATS Score 50-69:
+ATS Score < 40-59:
 RECOMMENDED
 
-ATS Score 30-49:
+ATS Score < 20-39:
 CONSIDER
 
 ATS Score < 10:
